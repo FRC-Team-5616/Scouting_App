@@ -1,0 +1,28 @@
+{
+    "1": {
+        "Team Message": {
+            "From": "Ashlen",
+            "Message Header": "Emojis",
+            "Message": "Emojis Suck",
+            "Secret?": false
+        }
+    },
+    "2": {
+        "1234": {
+            "Team Name": "Team Nice",
+            "Robot Specs": "bla bla bla",
+            "Coding Language": "Python",
+            "Extra Information": "yay"
+        }
+    },
+    "3": [
+        "Random information",
+        "bla bla bla",
+        "cool guy lyn is cool"
+    ],
+    "4": {
+        "1": "Ayo",
+        "2": "Joe",
+        "3": "Mac"
+    }
+}
